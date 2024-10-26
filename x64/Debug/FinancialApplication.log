@@ -1,0 +1,4 @@
+﻿  FinAccounts.cpp
+C:\Users\infra\Documents\Projects\FinancialApplication\FinancialApplication\FinAccounts.cpp(69,38): warning C4101: 'e': unreferenced local variable
+C:\Users\infra\Documents\Projects\FinancialApplication\FinancialApplication\FinAccounts.cpp(72,34): warning C4101: 'e': unreferenced local variable
+  FinancialApplication.vcxproj -> C:\Users\infra\Documents\Projects\FinancialApplication\x64\Debug\FinancialApplication.exe
